@@ -1,10 +1,10 @@
 package com.aws.codestar.projecttemplates.model;
 
-import sun.jvm.hotspot.utilities.BitMap;
+import java.sql.Blob;
 
 public class Contract {
 
-    private BitMap contractPhoto;
+    private Blob contractPhoto;
     private String cashUponDelivery;
 
 }

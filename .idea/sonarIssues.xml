@@ -13,12 +13,47 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../blink-dev/blink/src/main/java/com/blink/controller/OrdersController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blink/src/main/java/com/blink/controller/OrdersController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blink/src/main/java/com/blink/repository/GenericObjectRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blink/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/aws/codestar/projecttemplates/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/aws/codestar/projecttemplates/BlinkApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/aws/codestar/projecttemplates/config/MongoConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/aws/codestar/projecttemplates/controller/OrdersController.java">
           <value>
             <set />
           </value>
@@ -119,6 +154,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/aws/codestar/projecttemplates/model/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/aws/codestar/projecttemplates/repository/GenericObjectRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/aws/codestar/projecttemplates/handler/BlinkHandlerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/aws/codestar/projecttemplates/handler/HelloWorldHandlerTest.java">
           <value>
             <set />
           </value>

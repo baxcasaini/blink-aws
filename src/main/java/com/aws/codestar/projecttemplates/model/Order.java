@@ -3,7 +3,6 @@ package com.aws.codestar.projecttemplates.model;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
-import sun.jvm.hotspot.utilities.BitMap;
 
 public class Order {
 
