@@ -31,6 +31,6 @@ public class BlinkHandler implements RequestHandler<Object, Object> {
             //TODO : implement logic
         }
 
-        return new GatewayResponse(new JSONObject().put("Output", "Hello World!").toString(), headers, 200);
+        return new GatewayResponse(new JSONObject().put("Output", "Service offered from Blink srl").toString(), headers, 200);
     }
 }
