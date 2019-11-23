@@ -14,12 +14,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Application {
 
     public static void main(String[] args) {
-        DynamoInterface dynamoInterface = new DynamoInterface();
-        try {
-            dynamoInterface.startDynamo(null);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
         SpringApplication.run(Application.class, args);
     }
 }
