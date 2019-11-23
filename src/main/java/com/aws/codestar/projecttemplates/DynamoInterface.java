@@ -20,7 +20,9 @@ public class DynamoInterface {
         // to run dynamo service got to localfolder with jar file and lunch command java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
         // look for table throught amazon cli aws2 dynamodb list-tables --endpoint-url http://localhost:8000
         AmazonDynamoDB client = AmazonDynamoDBClientBuilder.standard()
-                .withEndpointConfiguration(new AwsClientBuilder.EndpointConfiguration("http://localhost:8000", "us-west-2"))
+//                .withEndpointConfiguration(
+//                        new AwsClientBuilder
+//                                .EndpointConfiguration("http://localhost:8000", "us-west-3"))
                 .build();
 
         DynamoDB dynamoDB = new DynamoDB(client);
