@@ -3,6 +3,7 @@ package com.aws.codestar.projecttemplates.handler;
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
 
+import com.aws.codestar.projecttemplates.DynamoInterface;
 import com.aws.codestar.projecttemplates.GatewayResponse;
 import org.json.JSONObject;
 
@@ -22,6 +23,13 @@ public class HelloWorldHandler implements RequestHandler<Object, Object> {
         headers.put("Access-Control-Allow-Headers", "origin, content-type, accept, authorization");
         headers.put("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE, OPTIONS, HEAD");
 
-        return new GatewayResponse(new JSONObject().put("Output", "Hello World!").toString(), headers, 200);
+        DynamoInterface dynamoInterface = new DynamoInterface();
+        try {
+            dynamoInterface.startDynamo(null);
+        } catch (Exception e) {
+            Object ex = e;
+        }
+
+        return new GatewayResponse(new JSONObject().put("Output", "Ciao !").toString(), headers, 200);
     }
 }
