@@ -13,22 +13,7 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/../blink-dev/blink/src/main/java/com/blink/controller/OrdersController.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../blink/src/main/java/com/blink/controller/OrdersController.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../blink/src/main/java/com/blink/repository/GenericObjectRepository.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../blink/src/main/resources/application.properties">
+        <entry key="$USER_HOME$/.aws/credentials">
           <value>
             <set />
           </value>
@@ -163,12 +148,117 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/static/js/app/UserService.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/static/js/app/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/com/aws/codestar/projecttemplates/handler/BlinkHandlerTest.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/com/aws/codestar/projecttemplates/handler/HelloWorldHandlerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blink-dev/blink/src/main/java/com/blink/controller/OrdersController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blink/ale/src/main/java/com/blink/blinkapi/controller/DeliveryController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blink/blink-aws/rollback/HelloWorld.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blink/src/main/java/com/blink/controller/OrdersController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blink/src/main/java/com/blink/repository/GenericObjectRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../blink/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bot/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../bot/src/main/java/com/bot/blink/BlinkBot.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../tmpb/blink-aws/.idea/aws.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../tmpb/blink-aws/HelloWorld.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../tmpb/blink-aws/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../tmpb/blink-aws/src/main/java/com/aws/codestar/projecttemplates/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../tmpb/blink-aws/src/main/java/com/aws/codestar/projecttemplates/DynamoInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../tmpb/blink-aws/src/main/java/com/aws/codestar/projecttemplates/handler/HelloWorldHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../tmpb/blink-aws/src/test/java/com/aws/codestar/projecttemplates/handler/HelloWorldHandlerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../tmpb/demo/src/main/java/com/example/demo/DemoApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../tmpb/demo/src/main/java/com/example/demo/ReorderFile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../tmpb/demo/src/main/java/com/example/demo/reorderFile.java">
           <value>
             <set />
           </value>

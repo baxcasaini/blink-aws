@@ -15,7 +15,6 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.mock;
-import org.springframework.data.mongodb.core.MongoTemplate;
 
 /**
  * Tests for {@link BlinkHandler}. Modify the tests in order to support your use case as you build your project.
